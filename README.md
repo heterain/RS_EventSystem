@@ -1,1 +1,1 @@
-# RS_EventSystem
+# RSEventSystem
